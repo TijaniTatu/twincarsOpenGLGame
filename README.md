@@ -12,9 +12,9 @@ Before building the project, ensure that you have the following dependencies ins
 
 - `g++` (GNU C++ Compiler)
 - OpenGL libraries:
-  - [`libGL`]
+  - [`libGL`](https://dri.freedesktop.org/wiki/libGL/)
   - [`libGLU`](https://launchpad.net/ubuntu/+source/libglu)
-  - `libglut`
+  - [`libglut`](https://www.opengl.org/resources/libraries/glut/glut_downloads.php)
 
 ### Installing Dependencies on Manjaro
 
